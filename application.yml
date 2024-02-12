@@ -7,6 +7,6 @@ eurekha:
      hostname: localhost 
 
 
-spring:
-  config:
-    import: configserver:
+# spring:
+#   config:
+#     import: configserver:
