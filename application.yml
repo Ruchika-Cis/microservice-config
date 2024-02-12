@@ -5,3 +5,8 @@ spring:
 eurekha:
   instance: 
      hostname: localhost 
+
+
+spring:
+  config:
+    import: configserver:
