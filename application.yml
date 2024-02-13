@@ -1,7 +1,7 @@
 # spring:
 #   application: config-default
 
- spring:
+ # spring:
 #   config:
 #     import: configserver:
 spring:
